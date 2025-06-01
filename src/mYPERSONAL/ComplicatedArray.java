@@ -9,6 +9,7 @@ public class ComplicatedArray
 		for (int i = 0; i < ar.length; i++)
 		{
 			s=sum(ar[i],ar[i+1]);
+			//ghi
 			i++;
 		}
 		System.out.println(s);
