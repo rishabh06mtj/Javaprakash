@@ -10,6 +10,7 @@ public class ComplicatedArray
 		{
 			s=sum(ar[i],ar[i+1]);
 			//ghi
+			jkjkjkdc
 			i++;
 		}
 		System.out.println(s);
